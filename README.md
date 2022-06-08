@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qatwood
+- 👋 Hi, I’m Quency
 - 👀 I’m interested in ai, machine learning, deep learning, big data
 - 🌱 I’m currently learning data science as part of a masters program
 - 💞️ I’m looking to collaborate on data sciene projects
