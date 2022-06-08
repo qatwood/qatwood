@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Quency
-- 👀 I’m interested in ai, machine learning, deep learning, big data
+- 👀 I’m interested in ai, machine learning, and big data
 - 🌱 I’m currently learning data science as part of a masters program
 - 💞️ I’m looking to collaborate on data sciene projects
-- 📫 How to reach me q.carol28@gmail.com
+- 📫 Reach me at q.carol28@gmail.com
 
 <!---
 qatwood/qatwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
